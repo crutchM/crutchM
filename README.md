@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **golang base library**
 
-- 📫 How to reach me **e-mail:crutchm@weeabook.ru telegram:https://t.me/crutchme**
+- 📫 How to reach me **crutchm@weeabook.ru**
 
 - ⚡ Fun fact **I like building a computers:3**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://t.me/crutchme</h3>
 <p align="left">
 </p>
 
