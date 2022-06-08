@@ -3,9 +3,7 @@
 
 - 🌱 I’m currently learning **golang base library**
 
-- 👨‍💻 All of my projects are available at [on this pahe](on this pahe)
-
-- 📫 How to reach me **crutchm@weeabook.ru**
+- 📫 How to reach me **e-mail:crutchm@weeabook.ru telegram:https://t.me/crutchme**
 
 - ⚡ Fun fact **I like building a computers:3**
 
