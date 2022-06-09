@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm crutchm</h1>
-<h3 align="center">A golang backend dev</h3>
+<h3 align="center">golang backend dev</h3>
 
 - 🌱 I’m currently learning **golang base library**
 
